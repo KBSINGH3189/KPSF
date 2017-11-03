@@ -1,0 +1,14 @@
+BODY
+{
+  font-family: "roboto", sans-serif;  
+}
+.img-cntr{margin:5px auto 0px auto;display:block;}
+
+.manual-container
+{
+  width: 100%;
+  background: #0783bc;
+  color: #FFF;
+  text-align: center;
+  padding: 10px 0px;
+}
